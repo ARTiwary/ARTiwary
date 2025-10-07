@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/ayush-raj-tiwary-3b4392227)  
+[LinkedIn](https://www.linkedin.com/in/your-profile) 
 ✉️ Email: [ayushratiwary07@gmail.com]
 
 ---
