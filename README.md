@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm ARTiwary 👋
+# Hi, I'm Ayush Raj Tiwary 👋
 
 🎓 I'm a B.Tech CSE student (2023–2027)  
 💻 Currently diving into the world of MERN Stack, AI/ML, and Software Development  
