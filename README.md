@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 GitHub Stats
+![ARTiwary's GitHub stats](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=ARTiwary&show_icons=true&theme=tokyonight)
 
-![ARTiwary's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARTiwary&show_icons=true&theme=radical)
 
 ---
 
