@@ -1,56 +1,100 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Ayush Raj Tiwary</h1>
+<h3 align="center">🚀 CSE Student | MERN Developer | AI/ML Explorer</h3>
 
-<!--
-**ARTiwary/ARTiwary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Ayush Raj Tiwary 👋
-
-🎓 I'm a B.Tech CSE student (2023–2027)  
-💻 Currently diving into the world of MERN Stack, AI/ML, and Software Development  
-🌱 Passionate about learning and building real-world tech solutions
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ARTiwary&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🌟 About Me
 
-- 💻 Languages: Python, JavaScript, C, Java
-- ⚙️ Frameworks & Libraries: React, Node.js
-- 🌐 MERN Stack: MongoDB, Express.js, React, Node.js
-- 🤖 AI/ML Enthusiast  
-- 🔧 Tools: Git, GitHub, VS Code
+🎓 B.Tech in Computer Science (2023–2027)  
+💡 Curious problem solver & tech enthusiast  
+🧠 Exploring MERN Stack & Machine Learning  
+🔥 Love building products that solve real problems  
 
----
-
-### 📫 Let's Connect
-
-[LinkedIn](https://www.linkedin.com/in/ayush-raj-tiwary-3b4392227) 
-✉️ Email: [ayushratiwary07@gmail.com]
+- 🔭 Currently working on full-stack projects  
+- 🌱 Learning scalable backend & AI models  
+- 🤝 Open for internships & collaborations  
+- 🎯 Goal: Become a skilled software engineer  
 
 ---
 
-### ⚡ Fun Facts
+## 🛠️ Tech Playground
 
-- 🏏 I'm a bowling all-rounder in cricket  
-- ✏️ I enjoy sketching in my free time  
-- 🤝 Always open to collaboration and learning opportunities!
+### 💻 Languages
+`Python` `JavaScript` `C` `Java`
+
+### ⚙️ Frameworks & Stack
+`React` `Node.js` `Express` `MongoDB` `REST APIs`
+
+### 🤖 Interests
+`AI/ML` `System Design` `Cloud Basics`
+
+### 🔧 Tools
+`Git` `GitHub` `VS Code` `Postman`
 
 ---
 
-### 📊 GitHub Stats
-![ARTiwary's GitHub stats](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=ARTiwary&show_icons=true&theme=tokyonight)
+## 🚀 Skill Badges
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-> “Code. Learn. Build. Repeat.” 🚀
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-raj-tiwary-3b4392227">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ayushratiwary07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Zone
+
+🏏 Cricket lover (Bowling All-Rounder)  
+✏️ Sketching is my stress-buster  
+🤝 Love teamwork & brainstorming  
+
+---
+
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ARTiwary&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARTiwary&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTiwary&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARTiwary&theme=tokyonight"/>
+</p>
+
+---
+
+## 💬 Personal Motto
+
+> 🚀 *“Learn every day. Build with passion. Grow without limits.”*
+
+---
+
+✨ Thanks for visiting! Let’s build something amazing together.
