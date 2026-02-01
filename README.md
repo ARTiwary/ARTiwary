@@ -71,16 +71,15 @@
 ---
 ## 📊 GitHub Dashboard
 
-## 📊 GitHub Dashboard
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARTiwary&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ARTiwary&show_icons=true&theme=tokyonight&include_all_commits=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARTiwary&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTiwary&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTiwary&layout=compact&theme=tokyonight"/>
 </p>
+
 
 
 ---
