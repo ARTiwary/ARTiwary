@@ -27,7 +27,7 @@
 `Python` `JavaScript` `C` `Java`
 
 ### ⚙️ Frameworks & Stack
-`React` `Node.js` `Express` `MongoDB` `REST APIs`
+`React` `Tailwind` `Node.js` `Express` `MongoDB` `REST APIs`
 
 ### 🤖 Interests
 `AI/ML` `System Design` `Cloud Basics`
@@ -41,6 +41,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
