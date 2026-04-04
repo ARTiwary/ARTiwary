@@ -71,15 +71,16 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ARTiwary&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ARTiwary&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARTiwary&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
 
----
-[![](https://visitcount.itsvg.in/api?id=ARTiwary&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ARTiwary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ARTiwary&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTiwary&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+</p>
 
 ## 📈 Contribution Activity
 
