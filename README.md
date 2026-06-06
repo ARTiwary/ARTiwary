@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80;MERN+Stack+%2B+Next.js+%2B+FastAPI+Developer;AI%2FML+Explorer+%26+Problem+Solver;Open+for+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80;Next.js+%2B+FastAPI+%2B+Multi-Agent+AI+Developer;Built+a+Full-Stack+AI+Dining+System+from+Scratch;Open+for+Internships+%26+Collaborations+%F0%9F%A4%9D;Turning+Real+Problems+into+Shipped+Products+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,13 +28,13 @@
 
 ```ts
 const ayush = {
-  name      : "Ayush Raj Tiwary",
-  degree    : "B.Tech CSE @ 2023–2027",
-  location  : "India 🇮🇳",
-  stack     : ["MERN", "Next.js", "FastAPI", "Python", "AI/ML"],
-  currentFocus : "Building scalable full-stack & AI-powered apps",
-  funFact   : "I bowl more overs than I close PRs 🏏",
-  available : true, // Open for internships & collaborations
+  name         : "Ayush Raj Tiwary",
+  degree       : "B.Tech CSE @ 2023–2027",
+  location     : "India 🇮🇳",
+  stack        : ["Next.js", "Node.js", "FastAPI", "Python", "PostgreSQL", "ChromaDB", "Groq AI"],
+  currentFocus : "Shipping full-stack + multi-agent AI systems",
+  funFact      : "I bowl more overs than I close PRs 🏏",
+  available    : true, // Open for internships & collaborations
 };
 ```
 
@@ -42,14 +42,34 @@ const ayush = {
 
 ## 🚀 Featured Projects
 
+### 🍛 Spice Garden — AI-Driven Smart Dining Assistant
+
+> Scan a QR code → chat with **Zara** (AI assistant) → order food. Zero staff. 8 specialized AI agents, real-time group ordering, multilingual support.
+
 <div align="center">
 
-| Project | Description | Stack | Live |
-|--------|-------------|-------|------|
-| 🍽️ **Smart Dining Assistant** | AI-powered dining recommendation & ordering system | React · Node.js · MongoDB · AI | [🌐 Live](https://smart-dinning-assistent.vercel.app) |
-| 🧠 **Brain Tumor Detection** | ML-based tumor detection with real-time gesture control | Python · FastAPI · TensorFlow · OpenCV | [🌐 Live](https://brain-tumor-with-gesture.netlify.app/) |
+[![Live Demo](https://img.shields.io/badge/🌐_Customer_App-Live-58a6ff?style=for-the-badge&labelColor=0d1117)](https://smart-dinning-assistent.vercel.app)
+[![Admin Panel](https://img.shields.io/badge/🔐_Admin_Panel-Live-8b949e?style=for-the-badge&labelColor=0d1117)](https://smart-dinning-assistent.vercel.app/admin)
+[![GitHub](https://img.shields.io/badge/GitHub-Source-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/ARTiwary/smart-dinning-assistent)
 
 </div>
+
+`Next.js` `Node.js` `PostgreSQL` `ChromaDB` `Groq AI` `LangChain.js` `Redis` `Socket.io`
+
+---
+
+### 🧠 NEURO-CORE — Brain Tumor MRI Detection + Gesture Control
+
+> Sterile, contactless diagnostic interface for doctors — classify brain MRI scans into 4 tumor types using a custom CNN + fine-tuned ResNet18 (94.81% accuracy), with Grad-CAM heatmaps and hands-free gesture control via MediaPipe.
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_App-Netlify-00C7B7?style=for-the-badge&labelColor=0d1117)](https://brain-tumor-with-gesture.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Source-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/ARTiwary/MRI-brain-tumour-detection-with-gesture-control-)
+
+</div>
+
+`Python` `PyTorch` `FastAPI` `MediaPipe` `OpenCV` `Grad-CAM` `Three.js`
 
 ---
 
@@ -57,36 +77,43 @@ const ayush = {
 
 <div align="center">
 
-### ⚡ Core Stack
+### ⚡ Full-Stack
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Data & AI Infra
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🤖 AI / ML
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain.js-1C3C3C?style=for-the-badge&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 
 ### 🧪 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🎨 Frontend & Styling
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🔧 Tools & DevOps
+### 🔧 Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -131,11 +158,12 @@ hobbies:
   - 🏏 Cricket — Bowling All-Rounder (clean action, good line)
   - ✏️  Sketching — stress reset + creative outlet
   - 🤝 Brainstorming with teams until 2am
-  
+
 mindset:
   - "Systems thinking > firefighting"
-  - "Build it, ship it, improve it"
+  - "Build it. Ship it. Improve it."
   - "Every bug is just a feature not yet understood"
+  - "$0 infra bills are an engineering achievement"
 ```
 
 ---
