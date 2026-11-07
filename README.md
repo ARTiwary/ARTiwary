@@ -1,71 +1,61 @@
 <div align="center">
 
-<img src="./assets/matrix.svg" alt="Ayush Raj Tiwary" width="100%"/>
+<img src="assets/header.svg" alt="Ayush Raj Tiwary: full stack developer, AI/ML builder, cricketer" width="100%" />
 
-<img src="./assets/terminal.svg" alt="Terminal boot sequence: ssh ayush@portfolio.dev" width="100%"/>
+<br />
 
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=3FB950&center=true&vCenter=true&width=700&lines=%24+git+commit+-m+%22ship+it%22;%24+docker+compose+up+--build;%24+python+train.py+--epochs+50;%24+vercel+deploy+--prod;%24+echo+%22open+for+internships%22" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/ayush-raj-tiwary-3b4392227"><img src="https://img.shields.io/badge/linkedin-connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=3fb950&labelColor=0d1117&color=3fb950"/></a>
-<a href="mailto:ayushratiwary07@gmail.com"><img src="https://img.shields.io/badge/mail-ayushratiwary07-0d1117?style=for-the-badge&logo=gmail&logoColor=3fb950&labelColor=0d1117&color=3fb950"/></a>
-<img src="https://komarev.com/ghpvc/?username=ARTiwary&label=visitors&color=3fb950&style=for-the-badge&labelColor=0d1117"/>
+**[Portfolio](https://artiwary.vercel.app/)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/ayush-raj-tiwary/)** &nbsp;·&nbsp; **[HackerRank](https://www.hackerrank.com/profile/ayushrajtiwary07)** &nbsp;·&nbsp; **[ORCID](https://orcid.org/0009-0009-3038-5216)** &nbsp;·&nbsp; **[Email](mailto:ayushratiwary07@gmail.com)**
 
 </div>
 
----
+<br />
 
-### `$ cat ~/about.ts`
+<img src="assets/sec-about.svg" alt="About" width="100%" />
 
-```ts
-const ayush = {
-  name         : "Ayush Raj Tiwary",
-  degree       : "B.Tech CSE @ 2023–2027",
-  location     : "India 🇮🇳",
-  stack        : ["Next.js", "Node.js", "FastAPI", "Python", "PostgreSQL", "ChromaDB", "Groq AI"],
-  currentFocus : "Shipping full-stack + multi-agent AI systems",
-  funFact      : "I bowl more overs than I close PRs 🏏",
-  status       : "open_for_internships_and_collabs", // pings welcome
-} as const;
-```
+<br />
 
----
+<img src="assets/player-card.svg" alt="Player card: Ayush Raj Tiwary, B.Tech CSE, full stack and multi-agent AI, open for internships" width="100%" />
 
-### `$ tree ~/projects`
+<br />
 
-```text
-~/projects
-├── 🍛 spice-garden/        AI-driven smart dining assistant
-│   ├── scan QR → chat with Zara → order food. zero staff.
-│   ├── 8 specialized AI agents · real-time group ordering · multilingual
-│   └── Next.js · Node · PostgreSQL · ChromaDB · Groq · LangChain.js · Redis · Socket.io
-│
-└── 🧠 neuro-core/          brain tumor MRI detection + gesture control
-    ├── custom CNN + fine-tuned ResNet18 → 4 tumor types @ 94.81% accuracy
-    ├── Grad-CAM heatmaps · hands-free control via MediaPipe
-    └── Python · PyTorch · FastAPI · OpenCV · Three.js
-```
+I build full stack products and teach machines to do useful things, mostly in Next.js, Node and Python. I like systems that work without supervision: a restaurant that runs on a chat, a scanner that reads MRIs, a viewer you steer with your hand. Off the keyboard I bowl, and I try to keep the same line and length in my code.
 
-<div align="center">
+<br />
 
-[![Spice Garden](https://img.shields.io/badge/spice--garden-live-3fb950?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://smart-dinning-assistent.vercel.app)
-[![Admin](https://img.shields.io/badge/admin--panel-live-8b949e?style=for-the-badge&labelColor=0d1117)](https://smart-dinning-assistent.vercel.app/admin)
-[![Source](https://img.shields.io/badge/spice--garden-source-181717?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/ARTiwary/smart-dinning-assistent)
-<br/>
-[![NEURO-CORE](https://img.shields.io/badge/neuro--core-live-3fb950?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117)](https://brain-tumor-with-gesture.netlify.app/)
-[![Source](https://img.shields.io/badge/neuro--core-source-181717?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/ARTiwary/MRI-brain-tumour-detection-with-gesture-control-)
+<img src="assets/sec-projects.svg" alt="Projects" width="100%" />
 
-</div>
+<br />
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://smart-dinning-assistent.vercel.app">
+        <img src="assets/spice-garden.svg" alt="Spice Garden: AI dining assistant with eight agents orbiting an orchestrator named Zara" width="100%" />
+      </a>
+      <p align="center">
+        <a href="https://smart-dinning-assistent.vercel.app"><b>Live</b></a> &nbsp;·&nbsp;
+        <a href="https://smart-dinning-assistent.vercel.app/admin"><b>Admin panel</b></a> &nbsp;·&nbsp;
+        <a href="https://github.com/ARTiwary/smart-dinning-assistent"><b>Source</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://brain-tumor-with-gesture.netlify.app/">
+        <img src="assets/neuro-core.svg" alt="NEURO-CORE: brain tumour MRI detection with 94.81 percent accuracy, controlled by hand gestures" width="100%" />
+      </a>
+      <p align="center">
+        <a href="https://brain-tumor-with-gesture.netlify.app/"><b>Live</b></a> &nbsp;·&nbsp;
+        <a href="https://github.com/ARTiwary/MRI-brain-tumour-detection-with-gesture-control-"><b>Source</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><code>$ ./show-architecture.sh</code></summary>
+<summary><b>How they are wired</b> &nbsp;<sub>(architecture diagrams, click to open)</sub></summary>
 
-<br/>
+<br />
+
+**Spice Garden**
 
 ```mermaid
 flowchart LR
@@ -78,6 +68,8 @@ flowchart LR
     C <--> H[(PostgreSQL)]
     C <--> I[(Redis)]
 ```
+
+**NEURO-CORE**
 
 ```mermaid
 flowchart LR
@@ -96,75 +88,96 @@ flowchart LR
 
 </details>
 
----
+**Also in the pavilion:** &nbsp;
+[portfolio](https://github.com/ARTiwary/portfolio) (my site, AI/ML and full stack work) &nbsp;·&nbsp;
+[Air-gesture-recognition](https://github.com/ARTiwary/Air-gesture-recognition) (hand gestures in JavaScript)
 
-### `$ ls ~/skills`
+<br />
+
+<img src="assets/sec-stack.svg" alt="Stack" width="100%" />
+
+<br />
+
+<img src="assets/scorecard.svg" alt="Tech stack scorecard" width="100%" />
+
+<br />
+
+<img src="assets/sec-stats.svg" alt="Stats" width="100%" />
+
+<br />
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,fastapi,tailwind,postgres,mongodb,redis,prisma,supabase&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=py,js,c,java,pytorch,tensorflow,opencv,docker,git,github,vercel,netlify,postman,vscode&theme=dark" /><br/>
-<sub><code>also: ChromaDB · Groq API · LangChain.js · Ollama · MediaPipe</code></sub>
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ARTiwary&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0E1B2C&title_color=F2A93B&icon_color=E2432F&text_color=EAF2FB" />
+<img height="170" alt="Streak stats" src="https://streak-stats.demolab.com?user=ARTiwary&hide_border=true&background=0E1B2C&ring=E2432F&fire=F2A93B&currStreakLabel=F2A93B&currStreakNum=EAF2FB&sideNums=EAF2FB&sideLabels=7FB3E6&dates=7FB3E6" />
+
+<br />
+
+<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTiwary&layout=compact&hide_border=true&bg_color=0E1B2C&title_color=F2A93B&text_color=EAF2FB&langs_count=8" />
+
+<br />
+
+<img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ARTiwary&bg_color=0E1B2C&color=7FB3E6&line=E2432F&point=EAF2FB&area=true&area_color=E2432F&hide_border=true" />
+
+<br />
+
+<img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ARTiwary/ARTiwary/output/github-snake-dark.svg" />
 
 </div>
 
----
+<br />
 
-### `$ git log --stat`
+<img src="assets/sec-offpitch.svg" alt="Off the pitch" width="100%" />
 
-<div align="center">
+<br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ARTiwary&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=8b949e" height="175"/>
-<img src="https://streak-stats.demolab.com?user=ARTiwary&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E" height="175"/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-<br/>
+**Between overs**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTiwary&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e&langs_count=8" height="150"/>
+- 🏏 **Cricket**: bowling all-rounder, clean action, good line
+- ✏️ **Sketching**: stress reset and creative outlet
+- 🤝 **Brainstorming** with teams until 2am
 
-<br/><br/>
+</td>
+    <td width="50%" valign="top">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARTiwary&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&area_color=3fb950&hide_border=true" width="100%"/>
+**House rules**
 
-</div>
+- Systems thinking over firefighting
+- Build it. Ship it. Improve it.
+- Every bug is a feature not yet understood
+- A $0 infra bill is an engineering achievement
 
----
+</td>
+  </tr>
+</table>
 
-### `$ ./snake --eat contributions`
+<br />
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ARTiwary/ARTiwary/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ARTiwary/ARTiwary/output/github-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ARTiwary/ARTiwary/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
+<img src="assets/sec-connect.svg" alt="Connect" width="100%" />
 
----
-
-### `$ cat ~/.config/life.yml`
-
-```yaml
-hobbies:
-  - 🏏 Cricket    — bowling all-rounder (clean action, good line)
-  - ✏️ Sketching  — stress reset + creative outlet
-  - 🤝 Brainstorming with teams until 2am
-
-mindset:
-  - "Systems thinking > firefighting"
-  - "Build it. Ship it. Improve it."
-  - "Every bug is just a feature not yet understood"
-  - "$0 infra bills are an engineering achievement"
-```
+<br />
 
 <div align="center">
 
-<br/>
+Open to internships and collaborations, especially full stack and applied AI. If something here caught your eye, my inbox is open.
 
-```text
-$ echo "Learn every day. Build with passion. Grow without limits."
-$ exit 0
-```
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=3&section=footer" width="100%"/>
+<a href="https://www.linkedin.com/in/ayush-raj-tiwary/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ayush--raj--tiwary-0E1B2C?style=for-the-badge&logo=linkedin&logoColor=7FB3E6&labelColor=E2432F" /></a>
+<a href="mailto:ayushratiwary07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ayushratiwary07-0E1B2C?style=for-the-badge&logo=gmail&logoColor=F2A93B&labelColor=E2432F" /></a>
+<a href="https://artiwary.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-artiwary.vercel.app-0E1B2C?style=for-the-badge&logo=vercel&logoColor=EAF2FB&labelColor=E2432F" /></a>
+<a href="https://www.instagram.com/the_tiwaryrajayush"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-the__tiwaryrajayush-0E1B2C?style=for-the-badge&logo=instagram&logoColor=EAF2FB&labelColor=E2432F" /></a>
+
+<br /><br />
+
+<img src="assets/footer.svg" alt="Learn every day. Build with passion. Grow without limits." width="100%" />
+
+<br />
+
+<sub><img alt="Profile views" src="https://komarev.com/ghpvc/?username=ARTiwary&label=views&color=E2432F&style=flat-square&labelColor=0E1B2C" /></sub>
 
 </div>
