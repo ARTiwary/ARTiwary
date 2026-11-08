@@ -1,183 +1,137 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Ayush Raj Tiwary: full stack developer, AI/ML builder, cricketer" width="100%" />
+<img src="assets/hero.svg" alt="Ayush Raj Tiwary - Full-Stack, AI, Computer Vision" width="100%"/>
 
-<br />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=00FF46&center=true&vCenter=true&width=760&lines=%3E+booting+ayush.exe...;Eight+AI+agents.+One+waiter+that+never+sleeps.;A+webcam+that+replaces+the+mouse+in+the+operating+room;%3E+open+to+internships+%26+collaborations" alt="Typing SVG"/></a>
 
-**[Portfolio](https://artiwary.vercel.app/)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/ayush-raj-tiwary/)** &nbsp;·&nbsp; **[HackerRank](https://www.hackerrank.com/profile/ayushrajtiwary07)** &nbsp;·&nbsp; **[ORCID](https://orcid.org/0009-0009-3038-5216)** &nbsp;·&nbsp; **[Email](mailto:ayushratiwary07@gmail.com)**
+<br/>
 
-</div>
-
-<br />
-
-<img src="assets/sec-about.svg" alt="About" width="100%" />
-
-<br />
-
-<img src="assets/player-card.svg" alt="Player card: Ayush Raj Tiwary, B.Tech CSE, full stack and multi-agent AI, open for internships" width="100%" />
-
-<br />
-
-I build full stack products and teach machines to do useful things, mostly in Next.js, Node and Python. I like systems that work without supervision: a restaurant that runs on a chat, a scanner that reads MRIs, a viewer you steer with your hand. Off the keyboard I bowl, and I try to keep the same line and length in my code.
-
-<br />
-
-<img src="assets/sec-projects.svg" alt="Projects" width="100%" />
-
-<br />
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://smart-dinning-assistent.vercel.app">
-        <img src="assets/spice-garden.svg" alt="Spice Garden: AI dining assistant with eight agents orbiting an orchestrator named Zara" width="100%" />
-      </a>
-      <p align="center">
-        <a href="https://smart-dinning-assistent.vercel.app"><b>Live</b></a> &nbsp;·&nbsp;
-        <a href="https://smart-dinning-assistent.vercel.app/admin"><b>Admin panel</b></a> &nbsp;·&nbsp;
-        <a href="https://github.com/ARTiwary/smart-dinning-assistent"><b>Source</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://brain-tumor-with-gesture.netlify.app/">
-        <img src="assets/neuro-core.svg" alt="NEURO-CORE: brain tumour MRI detection with 94.81 percent accuracy, controlled by hand gestures" width="100%" />
-      </a>
-      <p align="center">
-        <a href="https://brain-tumor-with-gesture.netlify.app/"><b>Live</b></a> &nbsp;·&nbsp;
-        <a href="https://github.com/ARTiwary/MRI-brain-tumour-detection-with-gesture-control-"><b>Source</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary><b>How they are wired</b> &nbsp;<sub>(architecture diagrams, click to open)</sub></summary>
-
-<br />
-
-**Spice Garden**
-
-```mermaid
-flowchart LR
-    A[QR Scan] --> B[Next.js Client]
-    B <-->|Socket.io| C[Node.js API]
-    C --> D{{Zara · Orchestrator}}
-    D --> E[8 Specialized Agents]
-    E <--> F[(ChromaDB)]
-    E <--> G[Groq LLM]
-    C <--> H[(PostgreSQL)]
-    C <--> I[(Redis)]
-```
-
-**NEURO-CORE**
-
-```mermaid
-flowchart LR
-    A[MRI Scan] --> B[Preprocess]
-    B --> C[Custom CNN]
-    B --> D[ResNet18]
-    C --> E{Ensemble}
-    D --> E
-    E --> F[4-class Prediction]
-    E --> G[Grad-CAM]
-    H[Webcam] --> I[MediaPipe] --> J[Gesture Control]
-    F --> K[Three.js Viewer]
-    G --> K
-    J --> K
-```
-
-</details>
-
-**Also in the pavilion:** &nbsp;
-[portfolio](https://github.com/ARTiwary/portfolio) (my site, AI/ML and full stack work) &nbsp;·&nbsp;
-[Air-gesture-recognition](https://github.com/ARTiwary/Air-gesture-recognition) (hand gestures in JavaScript)
-
-<br />
-
-<img src="assets/sec-stack.svg" alt="Stack" width="100%" />
-
-<br />
-
-<img src="assets/scorecard.svg" alt="Tech stack scorecard" width="100%" />
-
-<br />
-
-<img src="assets/sec-stats.svg" alt="Stats" width="100%" />
-
-<br />
-
-<div align="center">
-
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ARTiwary&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0E1B2C&title_color=F2A93B&icon_color=E2432F&text_color=EAF2FB" />
-<img height="170" alt="Streak stats" src="https://streak-stats.demolab.com?user=ARTiwary&hide_border=true&background=0E1B2C&ring=E2432F&fire=F2A93B&currStreakLabel=F2A93B&currStreakNum=EAF2FB&sideNums=EAF2FB&sideLabels=7FB3E6&dates=7FB3E6" />
-
-<br />
-
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTiwary&layout=compact&hide_border=true&bg_color=0E1B2C&title_color=F2A93B&text_color=EAF2FB&langs_count=8" />
-
-<br />
-
-<img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ARTiwary&bg_color=0E1B2C&color=7FB3E6&line=E2432F&point=EAF2FB&area=true&area_color=E2432F&hide_border=true" />
-
-<br />
-
-<img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ARTiwary/ARTiwary/output/github-snake-dark.svg" />
+<a href="https://www.linkedin.com/in/ayush-raj-tiwary/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/></a>
+<a href="mailto:ayushratiwary07@gmail.com"><img src="https://img.shields.io/badge/Gmail-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/></a>
+<img src="https://komarev.com/ghpvc/?username=ARTiwary&label=Visitors&color=00ff46&style=for-the-badge&labelColor=000000"/>
 
 </div>
 
-<br />
-
-<img src="assets/sec-offpitch.svg" alt="Off the pitch" width="100%" />
-
-<br />
+---
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="40%" align="center">
+<img src="assets/reveal.gif" alt="Binary rain assembling into a portrait" width="100%"/>
+</td>
+<td width="60%" valign="top">
 
-**Between overs**
+```text
+root@ayush:~$ whoami
+ayush-raj-tiwary        # B.Tech CSE '27 - full-stack + AI
 
-- 🏏 **Cricket**: bowling all-rounder, clean action, good line
-- ✏️ **Sketching**: stress reset and creative outlet
-- 🤝 **Brainstorming** with teams until 2am
+root@ayush:~$ ls ./projects
+spice-garden/   neurocore/
+
+root@ayush:~$ cat status.txt
+[ OK ] 8 AI agents online
+[ OK ] webcam tracking hands
+[ OK ] infra bill: $0.00
+[ >> ] open for internships and collaborations
+
+root@ayush:~$ cat offline.txt
+cricket (bowling all-rounder)
+pencil sketching
+brainstorming until 2am
+```
 
 </td>
-    <td width="50%" valign="top">
-
-**House rules**
-
-- Systems thinking over firefighting
-- Build it. Ship it. Improve it.
-- Every bug is a feature not yet understood
-- A $0 infra bill is an engineering achievement
-
-</td>
-  </tr>
+</tr>
 </table>
 
-<br />
+---
 
-<img src="assets/sec-connect.svg" alt="Connect" width="100%" />
+## `$ ./run projects --featured`
 
-<br />
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### >> SPICE GARDEN
+**AI-driven smart dining assistant**
+
+Scan a QR code at the table and chat with **Zara**, an AI waiter that understands English, Hinglish and Telugu-English, remembers returning guests, and warns about allergens before anything reaches the cart.
+
+```text
+agents ........ 8
+features ...... 25+
+infra cost .... $0 / month
+```
+
+- Multi-agent orchestrator (LangChain.js + Groq)
+- Real RAG: Cohere embeddings + pgvector search
+- Real-time group ordering (Socket.io + Redis)
+- Admin dashboard, kitchen display, reservations, Razorpay, PWA
+
+`Next.js 16` `Node.js` `PostgreSQL` `pgvector` `Redis` `Prisma` `Groq` `Cohere`
+
+[Live demo](https://smart-dinning-assistent.vercel.app/table/T1) | [Source code](https://github.com/ARTiwary/smart-dinning-assistent)
+
+</td>
+<td width="50%" valign="top">
+
+### >> NEUROCORE
+**Brain tumour MRI detection with gesture control**
+
+A contactless diagnostic interface for radiologists who can't break sterile gloves. Three independently trained models, Grad-CAM heatmaps that show why the model decided, and hands-free control through in-browser MediaPipe hand tracking.
+
+```text
+best accuracy . 95.75% (EfficientNet-B0)
+models ........ 3 (CNN, ResNet-18, EffNet)
+extra hardware  none (just a webcam)
+```
+
+- Pinch to click, dwell to select, two-hand scroll and zoom
+- Bootstrap 95% confidence intervals, per-class sensitivity
+- Honest limits: glioma sensitivity gap is documented, and it is a research prototype, not a clinical tool
+
+`PyTorch` `FastAPI` `MediaPipe` `OpenCV` `Grad-CAM` `Three.js` `Groq`
+
+[Live demo](https://brain-tumor-with-gesture.netlify.app/) | [Source code](https://github.com/ARTiwary/MRI-brain-tumour-detection-with-gesture-control-)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ cat stack.txt`
 
 <div align="center">
 
-Open to internships and collaborations, especially full stack and applied AI. If something here caught your eye, my inbox is open.
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,fastapi,python,pytorch,opencv,tensorflow,postgres,redis,supabase,prisma,tailwind,js,c,java,docker,vercel,netlify,git&theme=dark&perline=11"/>
 
-<br />
+</div>
 
-<a href="https://www.linkedin.com/in/ayush-raj-tiwary/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ayush--raj--tiwary-0E1B2C?style=for-the-badge&logo=linkedin&logoColor=7FB3E6&labelColor=E2432F" /></a>
-<a href="mailto:ayushratiwary07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ayushratiwary07-0E1B2C?style=for-the-badge&logo=gmail&logoColor=F2A93B&labelColor=E2432F" /></a>
-<a href="https://artiwary.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-artiwary.vercel.app-0E1B2C?style=for-the-badge&logo=vercel&logoColor=EAF2FB&labelColor=E2432F" /></a>
-<a href="https://www.instagram.com/the_tiwaryrajayush"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-the__tiwaryrajayush-0E1B2C?style=for-the-badge&logo=instagram&logoColor=EAF2FB&labelColor=E2432F" /></a>
+---
 
-<br /><br />
+## `$ git log --stats`
 
-<img src="assets/footer.svg" alt="Learn every day. Build with passion. Grow without limits." width="100%" />
+<div align="center">
 
-<br />
+<img src="https://github-readme-stats.vercel.app/api?username=ARTiwary&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00ff46&icon_color=00ff46&text_color=8bd9a0" height="165"/>
+<img src="https://streak-stats.demolab.com?user=ARTiwary&theme=dark&hide_border=true&background=000000&ring=00FF46&fire=00FF46&currStreakNum=00FF46&sideNums=8BD9A0&currStreakLabel=00FF46&sideLabels=8BD9A0&dates=3C7A4E" height="165"/>
 
-<sub><img alt="Profile views" src="https://komarev.com/ghpvc/?username=ARTiwary&label=views&color=E2432F&style=flat-square&labelColor=0E1B2C" /></sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARTiwary&theme=github-compact&bg_color=000000&color=00ff46&line=00ff46&point=ffffff&area=true&area_color=003b12&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+```text
+root@ayush:~$ echo $MOTTO
+"Learn every day. Build with passion. Grow without limits."
+
+root@ayush:~$ exit
+```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b12,100:00ff46&height=120&section=footer&text=connection%20closed.%20let's%20build%20something.&fontSize=17&fontColor=00ff46&fontAlignY=68"/>
 
 </div>
