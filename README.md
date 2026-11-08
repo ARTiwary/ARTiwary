@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Ayush Raj Tiwary - Full-Stack, AI, Computer Vision" width="100%"/>
+<img src="assets/hero.gif" alt="Ayush Raj Tiwary - Full-Stack, AI, Computer Vision" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=00FF46&center=true&vCenter=true&width=760&lines=%3E+booting+ayush.exe...;Eight+AI+agents.+One+waiter+that+never+sleeps.;A+webcam+that+replaces+the+mouse+in+the+operating+room;%3E+open+to+internships+%26+collaborations" alt="Typing SVG"/></a>
 
